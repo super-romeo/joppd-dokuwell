@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joppd.dokuwell.com/sitemap.xml
